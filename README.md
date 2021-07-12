@@ -2,6 +2,6 @@
 
 **Интро** ⚡️
 
-[Сыылка на веб-сайт здесь :)](https://oleestral.github.io/anti-stress/index.html)
+[Сcылка на веб-сайт здесь :)](https://oleestral.github.io/anti-stress/index.html)
 
 Небольшая игра, которая поможет отвлечься.
